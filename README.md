@@ -6,6 +6,12 @@ An intelligent, autonomous AI agent that analyzes long-form documents and extrac
 
 This project implements a sophisticated agentic AI system that goes beyond simple document retrieval. Instead of passively returning search results, the agent actively reasons about your research goals, decides which tools to use, and iteratively works toward comprehensive answers with self-evaluation and confidence scoring.
 
+## 🚀 Live Demo
+
+Try the deployed version now: **[Agentic Research Analyst](https://agentic-research-analyst-v1.streamlit.app/)**
+
+No setup required! Simply visit the link above to start uploading documents and exploring AI-powered insights.
+
 ## Key Features
 
 - **Intelligent Document Analysis**: Upload PDFs and get AI-driven insights tailored to your specific research goals
